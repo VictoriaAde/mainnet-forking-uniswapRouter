@@ -85,14 +85,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-
-// Build an onchain NFT, NFT where the images/svg where they are stored on the blockchain itself
-// base64 to encode the images
-// live on the blockchain
-// research
-// articles
-
-// Class Work
-
-// Using Solidity smart contract, create and deploy an onchain NFT and deploy it on any testnet (Polygon Mumbai or Sepolia) of your choice.
-//Make sure the NFT appears on Opensea.
