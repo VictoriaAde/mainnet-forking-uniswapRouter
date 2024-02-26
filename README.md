@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Mainnet Forking - Interaction with Uniswap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Interacted with 2 UNISWAP Functions
 
-Try running some of the following tasks:
+### Add Liquidity
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+![Alt text](images/addLiquidity.png)
+
+### swapTokensForExactTokens
+
+![Alt text](images/swapTokens.png)
